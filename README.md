@@ -3,7 +3,7 @@ In this project, you’ll build an app to allow users to discover the most popul
 
 
 
-##Meets Specifications
+## Meets Specifications
 :rocket: You've done a great job and your app meets all the specifications :rocket:
 
 Kindly check out my suggestions to make your app more awesome :wink:
@@ -12,7 +12,7 @@ All the best for your upcoming projects! :fireworks:
 
 
 
-##Common Project Requirements
+## Common Project Requirements
 
 
 * App is written solely in the Java Programming Language.
@@ -28,7 +28,7 @@ All the best for your upcoming projects! :fireworks:
 * App utilizes stable release versions of all libraries, Gradle, and Android Studio.
 
 
-##User Interface - Function
+## User Interface - Function
 
 
 * When a user changes the sort criteria (“most popular and highest rated”) the main view gets updated correctly.
@@ -36,13 +36,13 @@ All the best for your upcoming projects! :fireworks:
 * When a movie poster thumbnail is selected, the movie details screen is launched.
 
 
- ##NETWORK API Implementation
+ ## NETWORK API Implementation
 
 
 * In a background thread, app queries the /movie/popular or /movie/top_rated API for the sort criteria specified in the settings menu.
 
 
-##General Project Guidelines
+## General Project Guidelines
 
 
 * App conforms to common standards found in the Android Nanodegree General Project Guidelines (NOTE: For Stage 1 of the Popular Movies App, it is okay if the app does not restore the data using onSaveInstanceState/onRestoreInstanceState)
