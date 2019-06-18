@@ -6,6 +6,18 @@ A plot synopsis (called overview in the api)
 user rating (called vote_average in the api)
 release date
 
+# Libraries
+GSON
+
+Retrofit
+
+Glid
+
+Support design libraries
+
+# Key
+You can obtained your API key from here(www.themoviedb.org).
+
 
 ![movie1](https://user-images.githubusercontent.com/45606322/51961213-3c8a7500-2419-11e9-881c-756f5e37b977.png)
 
